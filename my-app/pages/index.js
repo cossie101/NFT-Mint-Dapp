@@ -366,9 +366,9 @@ export default function Home() {
       </Head>
       <div className={styles.main}>
         <div>
-          <h1 className={styles.title}>Welcome to DEV NFT</h1>
+          <h1 className={styles.title}>Welcome to Blockchain101 NFT</h1>
           <div className={styles.description}>
-            Its an NFT collection for developers in Crypto.
+            Its an NFT collection for Blockchain101Dao Members.
           </div>
           <div className={styles.description}>
             {tokenIdsMinted}/20 have been minted
